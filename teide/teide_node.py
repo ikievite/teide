@@ -3,7 +3,7 @@ from argparse import Namespace
 from collections import defaultdict
 from functools import partial
 
-import teide_lib
+import teide.teide_lib as teide_lib
 from scrapli import Scrapli
 
 
